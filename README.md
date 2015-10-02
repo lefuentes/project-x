@@ -1,4 +1,4 @@
-# project-x-uml for TDP 2015 #
+# project-x for TDP 2015 #
 
 ## Contributors ##
 
